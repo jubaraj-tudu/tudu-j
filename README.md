@@ -1,3 +1,4 @@
 # tudu-j
-this is my  first Repository
-Author - Jubaraj Tudu
+this is my  first Repository.
+<br>
+Author - Jubaraj Tudu.
